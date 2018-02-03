@@ -1,0 +1,7 @@
+C:\Users\psycho realm\Documents\Visual Studio 2017\Projects\CalculateSHA256Hash\CalculateSHA256Hash\bin\Debug\CalculateSHA256Hash.exe.config
+C:\Users\psycho realm\Documents\Visual Studio 2017\Projects\CalculateSHA256Hash\CalculateSHA256Hash\bin\Debug\CalculateSHA256Hash.exe
+C:\Users\psycho realm\Documents\Visual Studio 2017\Projects\CalculateSHA256Hash\CalculateSHA256Hash\bin\Debug\CalculateSHA256Hash.pdb
+C:\Users\psycho realm\Documents\Visual Studio 2017\Projects\CalculateSHA256Hash\CalculateSHA256Hash\obj\Debug\CalculateSHA256Hash.csprojResolveAssemblyReference.cache
+C:\Users\psycho realm\Documents\Visual Studio 2017\Projects\CalculateSHA256Hash\CalculateSHA256Hash\obj\Debug\CalculateSHA256Hash.csproj.CoreCompileInputs.cache
+C:\Users\psycho realm\Documents\Visual Studio 2017\Projects\CalculateSHA256Hash\CalculateSHA256Hash\obj\Debug\CalculateSHA256Hash.exe
+C:\Users\psycho realm\Documents\Visual Studio 2017\Projects\CalculateSHA256Hash\CalculateSHA256Hash\obj\Debug\CalculateSHA256Hash.pdb
